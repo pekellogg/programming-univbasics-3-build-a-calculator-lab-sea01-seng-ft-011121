@@ -29,6 +29,6 @@ end
 modulo(34,5)
 
 def square_root(num)
-  p 
+  p
 end
 square_root(81)
