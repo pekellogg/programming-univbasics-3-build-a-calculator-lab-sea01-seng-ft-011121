@@ -24,7 +24,7 @@ multiplication(4,30)
 
 # mod method and calling it with args specified in test
 def modulo(num1, num2)
-  p num1.to_i % num2.to_i
+  p num1 % num2
 end
 modulo(34,5)
 
